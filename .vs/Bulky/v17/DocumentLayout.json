@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "D:\\MITERAPATERA\\Bulky\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{349D735E-6A0F-447B-93CA-28CD3F6CE6D1}|BulkyWeb\\BulkyWeb.csproj|d:\\miterapatera\\bulky\\bulkyweb\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{349D735E-6A0F-447B-93CA-28CD3F6CE6D1}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{349D735E-6A0F-447B-93CA-28CD3F6CE6D1}|BulkyWeb\\BulkyWeb.csproj|d:\\miterapatera\\bulky\\bulkyweb\\areas\\admin\\controllers\\productcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{349D735E-6A0F-447B-93CA-28CD3F6CE6D1}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\controllers\\productcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8BEF58A-6141-41C2-9D46-16D654340CBE}|Bulky.Models\\Bulky.Models.csproj|d:\\miterapatera\\bulky\\bulky.models\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8BEF58A-6141-41C2-9D46-16D654340CBE}|Bulky.Models\\Bulky.Models.csproj|solutionrelative:bulky.models\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F8BEF58A-6141-41C2-9D46-16D654340CBE}|Bulky.Models\\Bulky.Models.csproj|d:\\miterapatera\\bulky\\bulky.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\MITERAPATERA\\Bulky\\BulkyWeb\\Program.cs",
               "RelativeDocumentMoniker": "BulkyWeb\\Program.cs",
@@ -48,7 +40,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\MITERAPATERA\\Bulky\\Bulky.Models\\Product.cs",
               "RelativeDocumentMoniker": "Bulky.Models\\Product.cs",
@@ -57,34 +49,19 @@
               "ViewState": "AQIAABoAAAAAAAAAAAAAAC4AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-23T14:56:32.629Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ProductController .cs",
               "DocumentMoniker": "D:\\MITERAPATERA\\Bulky\\BulkyWeb\\Areas\\Admin\\Controllers\\ProductController .cs",
               "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Controllers\\ProductController .cs",
               "ToolTip": "D:\\MITERAPATERA\\Bulky\\BulkyWeb\\Areas\\Admin\\Controllers\\ProductController .cs",
               "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Controllers\\ProductController .cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAAD4AAAANAAAA",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAAEcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-24T11:02:26.056Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\MITERAPATERA\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ToolTip": "D:\\MITERAPATERA\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-24T13:17:02.565Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
@@ -95,19 +72,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductVM.cs",
-              "DocumentMoniker": "D:\\MITERAPATERA\\Bulky\\Bulky.Models\\ViewModels\\ProductVM.cs",
-              "RelativeDocumentMoniker": "Bulky.Models\\ViewModels\\ProductVM.cs",
-              "ToolTip": "D:\\MITERAPATERA\\Bulky\\Bulky.Models\\ViewModels\\ProductVM.cs",
-              "RelativeToolTip": "Bulky.Models\\ViewModels\\ProductVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-24T13:42:37.749Z",
-              "EditorCaption": ""
             }
           ]
         }

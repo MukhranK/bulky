@@ -268,3 +268,4 @@ D:\MITERAPATERA\Bulky\BulkyWeb\obj\Debug\net8.0\BulkyWeb.csproj.Up2Date
 D:\MITERAPATERA\Bulky\BulkyWeb\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
 D:\MITERAPATERA\Bulky\BulkyWeb\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
 D:\MITERAPATERA\Bulky\BulkyWeb\obj\Debug\net8.0\BulkyWeb.MvcApplicationPartsAssemblyInfo.cs
+D:\MITERAPATERA\Bulky\BulkyWeb\obj\Debug\net8.0\BulkyWeb.sourcelink.json
